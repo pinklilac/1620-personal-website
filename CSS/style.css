@@ -6,3 +6,17 @@ body {background-color:rgb(255,218, 185);
 h1 {
       color: rgb(128, 0, 79);
   }
+nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display:block;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1.5 px solid;
+    border-color: blue;
+    text-align: center;
+    font-size: 1.5em;
+    background-color: cadetblue;
+    color: violet;
+
+}
