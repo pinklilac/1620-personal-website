@@ -1,7 +1,10 @@
 @charset "utf-8";
 *
 body {background-color:rgb(255,218, 185);
-  }
+      font-family: 'Times New Roman', Times, serif;
+      max-width: 350 px;
+
+}
 
 h1 {
       color: rgb(128, 0, 79);
@@ -19,5 +22,14 @@ nav {
     font: bold;
     background-color: cadetblue;
     color: violet;
+    
 
 }
+
+h1, h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+  
+
+}
+
