@@ -27,7 +27,7 @@ nav ul {
     list-style-type: none;
     margin:0;
     padding:0;
-    position:fixed;
+    position:sticky;
     background-color: cadetblue;
     top:0;
     width:100%;
